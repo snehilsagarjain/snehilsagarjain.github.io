@@ -1,0 +1,13 @@
+.bg{
+    background-image: url(
+        "https://img.freepik.com/free-vector/e-commerce-banners-collection_1284-19367.jpg?w=740&t=st=1673882265~exp=1673882865~hmac=1d5f14f05449e38474d564a1533e0b0a295590951f59d2240f98e908501ea617"
+        );
+        /*"img_nature.jpg"*/
+        min-height: 564px;
+
+        /* Center and scale the image nicely */
+        /*background-position: center;
+        /*background-repeat: no-repeat;*/
+        /*background-size: cover;*/
+        /*position: relative;*/
+}
